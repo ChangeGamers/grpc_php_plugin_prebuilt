@@ -1,0 +1,29 @@
+{
+  "name": "grpc_php_plugin_prebuilt",
+  "version": "0.0.1",
+  "description": "grpc_php_plugin prebuilt binaries",
+  "main": "src/cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChangeGamers/grpc_php_plugin_prebuilt.git"
+  },
+  "keywords": [
+    "grpc",
+    "php",
+    "plugin",
+    "binary",
+    "binaries"
+  ],
+  "author": "Ezekiel Warren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChangeGamers/grpc_php_plugin_prebuilt/issues"
+  },
+  "homepage": "https://github.com/ChangeGamers/grpc_php_plugin_prebuilt#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
