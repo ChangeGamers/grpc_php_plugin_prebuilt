@@ -2,7 +2,10 @@
   "name": "grpc_php_plugin_prebuilt",
   "version": "0.0.1",
   "description": "grpc_php_plugin prebuilt binaries",
-  "main": "src/cli.js",
+  "main": "src/main.js",
+  "bin": {
+    "grpc_php_plugin": "src/cli.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -24,6 +27,8 @@
   },
   "homepage": "https://github.com/ChangeGamers/grpc_php_plugin_prebuilt#readme",
   "dependencies": {
+    "decompress": "^4.2.0",
+    "fs-extra": "^4.0.2",
     "request": "^2.83.0"
   }
 }
