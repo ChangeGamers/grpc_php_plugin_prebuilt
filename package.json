@@ -28,7 +28,7 @@
   "homepage": "https://github.com/ChangeGamers/grpc_php_plugin_prebuilt#readme",
   "dependencies": {
     "decompress": "^4.2.0",
-    "fs-extra": "^4.0.2",
+    "fs-extra": "^4.0.3",
     "request": "^2.83.0"
   }
 }
