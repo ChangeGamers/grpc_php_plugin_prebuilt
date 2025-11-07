@@ -29,6 +29,6 @@
   "dependencies": {
     "decompress": "^4.2.0",
     "fs-extra": "^4.0.2",
-    "request": "^2.83.0"
+    "request": "^2.88.2"
   }
 }
